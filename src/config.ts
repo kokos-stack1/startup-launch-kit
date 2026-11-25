@@ -15,8 +15,8 @@ export const site: SiteConfig = {
   tagline: "Plov as a Service",
   description:
     "Plovify brings hot, fresh plov to every table, from a family dinner to a wedding for 800 guests. Replace this text with one or two sentences about the problem your startup solves and who it is for.",
-  accentColor: "#e8630a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
-  contactEmail: "hello@plovify.example",
+  accentColor: "#16a34a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  contactEmail: "kokojam12347@gmail.com",
 
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
