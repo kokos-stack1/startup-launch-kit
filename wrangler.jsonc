@@ -7,7 +7,7 @@
 
   // LEVEL 2: website + backend + database.
   // The Worker in worker/index.ts handles /api/* requests.
-  "main": "worker/index.ts",
+  "main": "workerы/index.ts",
 
   // Everything else is the static website that Astro builds into ./dist.
   "assets": {
